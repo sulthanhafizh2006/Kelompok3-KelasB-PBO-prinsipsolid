@@ -1,5 +1,7 @@
 # ============================================================
 # BAGIAN 4 - input_handler.py
+# Nama: Aksya Nayla Fitriana
+# NIM: K3525047
 # Membaca Input dari User (Single Responsibility)
 # ============================================================
 

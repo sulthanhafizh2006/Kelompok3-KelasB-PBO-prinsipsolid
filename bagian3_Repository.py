@@ -1,6 +1,8 @@
 # ============================================================
 # BAGIAN 3 - repository.py
 # Nama : Adibah Ruhil
+# Kelas : B
+# NIM : K3525044
 # Penyimpanan Data (Single Responsibility + Dependency Inversion)
 # ============================================================
 
